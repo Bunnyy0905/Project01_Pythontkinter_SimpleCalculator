@@ -4,7 +4,7 @@ As i am learning python, I came across tkinter, which provides fast and easy way
 Enter inputs:
 
 
-![image](https://user-images.githubusercontent.com/126411621/229372016-4e159f16-9f02-4e23-976d-d79602ff1e9d.png)
+![image](https://user-images.githubusercontent.com/126411621/229372581-4ce6022f-f00b-46a3-b313-1b0b9c40db76.png)
 
 
 
@@ -12,6 +12,8 @@ Enter inputs:
 Output:
 
 
+![image](https://user-images.githubusercontent.com/126411621/229372630-15e9aa8e-9f0d-48de-8ad9-f7286ef78c26.png)
 
-![image](https://user-images.githubusercontent.com/126411621/229372058-a4e9cc37-a30c-4433-a5bc-509e26e5a8d5.png)
+
+
 
